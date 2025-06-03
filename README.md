@@ -34,9 +34,9 @@ In this project, we start from an existing logistic regression model (trained to
 
 ### Data
 
-This notebook assumes you have access to the original cell-free mRNA expression data.
+The notebooks assume you have access to the original cell-free mRNA expression data.
 
-> **Note:** The raw data files themselves (e.g., CSV/TSV) are not included in this repository.
+> **Note:** The raw data is not included in this repository.
 
 ### Code Dependencies
 
@@ -59,8 +59,8 @@ pip install pandas numpy matplotlib seaborn
 1. **Clone (or Download) This Repository**
 
 ```bash
-git clone https://github.com/debajyotid2/uncertainty-analysis-adjusted-sd.git
-cd uncertainty-analysis-adjusted-sd
+git clone https://github.com/debajyotid2/uncertainty_analysis.git
+cd uncertainty_analysis
 ```
 
 2. **Install Dependencies**
